@@ -1,11 +1,11 @@
 import Popover from '../popover';
 
 document.body.innerHTML = `
-  <button id="popover-btn">Click to toggle popover</button>
+  <button id="popover-body">Click to toggle popover</button>
 `;
 
 test('popover shows on click', () => {
-  const button = document.getElementById('popover-btn');
+  const button = document.getElementById('popover-body');
   const popover = new Popover(button, 'Test title', 'Test content');
   button.click();
 

@@ -9,7 +9,6 @@
     "lint:fix": "eslint . --fix",
     "test": "jest",
     "test:ci": "start-server-and-test start http://localhost:9000 test --wait-on http://localhost:9000",
-    "test:puppeteer": "node run-puppeteer.js",
     "e2e": "jest --testPathPattern=./e2e/ --runInBand",
     "coverage": "jest --coverage",
     "serve": "live-server ./src"
