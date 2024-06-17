@@ -1,6 +1,6 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/c8fs03saddimp84g?svg=true)](https://ci.appveyor.com/project/Ludiamen/11-ahj-code-tests-cardvalidator)
+[![Build status](https://ci.appveyor.com/api/projects/status/a7royb7uu04rb30t?svg=true)](https://ci.appveyor.com/project/Ludiamen/11-ahj-code-forms-1-popovers)
 
-[Сcылка на GitHub Pages](https://ludiamen.github.io/11-ahj-code-tests-cardValidator/)
+[Сcылка на GitHub Pages](https://ludiamen.github.io/11-ahj-code-forms-1-popovers/)
 
 Правила сдачи задания:
 1. **Важно**: в рамках этого ДЗ вы можете использовать любой пакетный менеджер.
